@@ -9,9 +9,7 @@ output: pdf_document
 
 #This is an R Markdown document. 
 
-#add this part
-#add this part 2
-#add this part 3 with class
+#Updated final analysis
 ```
 
 
