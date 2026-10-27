@@ -1,0 +1,15 @@
+---
+title: "Git_BHDS_Fall2026"
+author: "BEVERLY GONZALEZ"
+date: "2026-10-27"
+output: pdf_document
+---
+
+```{r, echo=TRUE, warning=FALSE, message=FALSE}
+
+#This is an R Markdown document. 
+
+
+```
+
+
