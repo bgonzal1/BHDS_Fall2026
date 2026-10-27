@@ -11,6 +11,7 @@ output: pdf_document
 
 #add this part
 #add this part 2
+#add this part 3 with class
 ```
 
 
